@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Contains all items for the Data Science Capstone Project Course
+# IBM Data Science_Capstone
+Contains all items for the IBM Data Science Capstone Project Course
